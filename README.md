@@ -14,6 +14,18 @@
 
 360
 
+小米
+
 # 帮助收集
 
 如果您有空，可以帮助收集未收录的招聘信息，并pull request到该主页，谢谢！！！
+
+# 下载
+
+## 使用git命令
+
+git clone https://github.com/HsingPeng/JobInfo.git
+
+## 手动下载
+
+点击进入一个文件，移动鼠标到右上角Raw按钮，右键另存为。
